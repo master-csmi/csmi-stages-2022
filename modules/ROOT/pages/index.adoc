@@ -44,7 +44,7 @@ git commit -a -m"rapport nom prenom"
 
 NOTE: Le PDF de la présentation peut être déposé la veille au soir de la soutenance
 
-NOTE: Les stages avec rapports et soutenances confidentiels sont à envoyer par email à {reponsable}.
+NOTE: Les stages avec rapports et soutenances confidentiels sont à envoyer par email à {reponsable} avec [STAGE CONFIDENTIEL] dans le sujet et les fichiers nommés comme ci-dessus.
 ----
 
 Ceci est la page principale des rapports de stage de l'année {year} pour les Master 1 et 2 CSMI.
