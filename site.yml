@@ -1,10 +1,10 @@
 site:
-  title: Master CSMI::Stages {year}
-  url: https://master-csmi.github.io/csmi-stages-{year}
+  title: Master CSMI::Stages 2022
+  url: https://master-csmi.github.io/csmi-stages-2022
   start_page: csmi-stages-2021:ROOT:index.adoc
 content:
   sources:
-  - url: https://github.com/master-csmi/csmi-stages-{year}
+  - url: https://github.com/master-csmi/csmi-stages-2022
     branches: main
 ui:
   bundle:
