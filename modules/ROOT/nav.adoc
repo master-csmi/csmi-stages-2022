@@ -1,1 +1,2 @@
 * xref:index.adoc[Master CSMI {year}]
+* https://github.com/master-csmi/discussions[Actualités] 
