@@ -1,0 +1,44 @@
+[cols="1,1,2,4"]
+|===
+| Nom | Prénom | Entreprise | Sujet
+
+| De Rose | Stève | link:[Utt] | _Dans l'industrie du textile on classifie la morphologie des individus en différents groupes. Une telle_x000D_
+catégorisation des « formes » de corps permet une organisation plus appropriée des systèmes de_x000D_
+dimensionnement des vêtements. Différentes classifications existent : certaines ont été établies à_x000D_
+partir de critères géométriques de représentation du corps humain ; d’autres à partir de critères_x000D_
+mathématiques et d’outils de la science des données._
+
+| Dumont | Quentin | link:http://www.altran.fr[Altran Technologies] | _Algorithme d’optimisation pour l’efficacité énergétique_
+
+| Guidet | Laurène | link:https://www.sporttesting.fr/[Sporttesting] | _Définir les facteurs de performance ou marqueur de performance avec comme base une multitude de données de profilage d'individu. Utilisation de Python, R ou autre suivant les besoins. Il faudra également collecter les données de notre base de données et ensuite automatiser l'entrée des résultats sur notre plateforme SportGen (avec le soutien de notre Développeur)._x000D_
+_x000D_
+Utilisation de méthode de clustering pour la création de groupe d'entrainement. Tester différentes méthodes de groupement d'individus en fonction de leurs caractéristiques. (Sujet assez libre, mais assez vaste également)_x000D_
+_x000D__
+
+| Holler | Colin | link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg] | _Mise en œuvre de techniques d’apprentissage supervisé (deep learning) pour_x000D_
+l’analyse automatique à grande échelle de marquages routiers_
+
+| Italiano | Vincent | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Approximation d'EDP hyperboliques paramétriques par apprentissage_
+
+| Klein | Anita | link:[I-Cube] | _Simulation offers a promising future to surgery as it could improve the training of the surgeons in_x000D_
+different procedures. However, simulation of cutting in surgery is still a challenge as it raises problems_x000D_
+such as topological changes as well as the deformations induced by these modification. To handle these problems we are working on a new method that simulates the cutting process with the finite-element method. The topological changes will be minimized through the constraints on the mesh, transforming the geometrical issue of cutting into a mechanical problem. During the cutting process, the edges that intersects with the cutting surface will be snapped, generating unhooked nodes that need to be projected on the surface. Such projection can be realized by applying constraints on the snapping nodes, leading to a local constraint-based problem to be solved_
+
+| Klockenbring | Dimitri | link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg] | _Détection automatique par IA pour caractériser le transport de matières dangereuses (TMD) Cas du tunnel de Schirmeck_
+
+| Lorentz | Celine | link:[Institut Jean Lamour] | _Les défauts d’arcs électriques dans les réseaux électriques (aéronautiques, automobiles, domestiques …) sont à l’origine de nombreux accidents graves causés par des incendies ou par la destruction d’organes importants. Le réseau que nous étudions se compose d’une source continue (270 VDC) alimentant des charges diverses (résistives, inductives, charges non-linéaires, …)._x000D_
+L’objectif principal du travail proposé repose sur l’implémentation d’algorithmes d’intelligence artificielle pour la détection de défauts, de leurs tests de performances et d’optimisations en conditions réelles._
+
+| Mengel | Corentin | link:[General Electric Medical Systems Scs] | _Segmentation interactive par deep learning pour l’imagerie médicale_
+
+| Mousel | Jimmy | link:http://www.alsace.cnrs.fr[Cnrs - Delegation Alsace] | _Modélisation des écoulements d’air et du transportde polluants dans une enceinte fermée._
+
+| Muzet | Jeremie | link:[Cnrs] | _Modélisation de supraconducteur_
+
+| Reitzer | Marie | link:https://www.e-i.com/fr/index.html[Euro Information Developpements] | _REFONTE DU SYSTÈME DES TAUX DE CAPITALISATION EN ASSURANCE VIE_
+
+| Untz | Mélissa | link:[Schmidt Groupe Sas] | _Optimisation d'algorithme d’entrée et de libération des trieurs 25 et 26 de l’atelier PAM1_
+
+| Van Landeghem | Celine | link:[Cnrs Delegation Alsace] | _Modélisation et simulation du contact en micro-natation._
+
+|===
