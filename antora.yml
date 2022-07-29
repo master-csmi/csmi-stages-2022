@@ -6,6 +6,7 @@ asciidoc:
   attributes: 
     hide-uri-scheme: '' 
     year: 2022
+    responsable: Christophe Prud'homme <prudhomme@unistra.fr>
 nav:
 - modules/ROOT/nav.adoc
 - modules/m1/nav.adoc
