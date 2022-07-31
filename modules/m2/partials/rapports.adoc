@@ -1,26 +1,26 @@
 
- - [[[DeRose]]] De Rose Stève, _Dans l'industrie du textile on classifie la morphologie des individus en différents groupes. une telle_x000d_
-catégorisation des « formes » de corps permet une organisation plus appropriée des systèmes de_x000d_
-dimensionnement des vêtements. différentes classifications existent : certaines ont été établies à_x000d_
-partir de critères géométriques de représentation du corps humain ; d'autres à partir de critères_x000d_
+ - [[[DeRose]]] De Rose Stève, _Dans l'industrie du textile on classifie la morphologie des individus en différents groupes. une telle
+catégorisation des « formes » de corps permet une organisation plus appropriée des systèmes de
+dimensionnement des vêtements. différentes classifications existent : certaines ont été établies à
+partir de critères géométriques de représentation du corps humain ; d'autres à partir de critères
 mathématiques et d'outils de la science des données._, link:[Utt], link:{attachmentsdir}/++De Rose-Stève.pdf++[De Rose-Stève.pdf],  link:{attachmentsdir}/++De Rose-Stève-slides.pdf++[De Rose-Stève-slides.pdf] 
 
  - [[[Dumont]]] Dumont Quentin, _Algorithme d'optimisation pour l'efficacité énergétique_, link:http://www.altran.fr[Altran Technologies], link:{attachmentsdir}/++Dumont-Quentin.pdf++[Dumont-Quentin.pdf],  link:{attachmentsdir}/++Dumont-Quentin-slides.pdf++[Dumont-Quentin-slides.pdf] 
 
  - [[[Guidet]]] Guidet Laurène, _Définir les facteurs de performance ou marqueur de performance avec comme base une multitude de données de profilage d'individu. utilisation de python, r ou autre suivant les besoins. il faudra également collecter les données de notre base de données et ensuite automatiser l'entrée des résultats sur notre plateforme sportgen (avec le soutien de notre développeur)
-_x000d_
-utilisation de méthode de clustering pour la création de groupe d'entrainement. tester différentes méthodes de groupement d'individus en fonction de leurs caractéristiques. (sujet assez libre, mais assez vaste également)_x000d_
-_x000d__, link:https://www.sporttesting.fr/[Sporttesting], link:{attachmentsdir}/++Guidet-Laurène.pdf++[Guidet-Laurène.pdf],  link:{attachmentsdir}/++Guidet-Laurène-slides.pdf++[Guidet-Laurène-slides.pdf] 
 
- - [[[Holler]]] Holler Colin, _Mise en œuvre de techniques d'apprentissage supervisé (deep learning) pour_x000d_
+utilisation de méthode de clustering pour la création de groupe d'entrainement. tester différentes méthodes de groupement d'individus en fonction de leurs caractéristiques. (sujet assez libre, mais assez vaste également)
+_, link:https://www.sporttesting.fr/[Sporttesting], link:{attachmentsdir}/++Guidet-Laurène.pdf++[Guidet-Laurène.pdf],  link:{attachmentsdir}/++Guidet-Laurène-slides.pdf++[Guidet-Laurène-slides.pdf] 
+
+ - [[[Holler]]] Holler Colin, _Mise en œuvre de techniques d'apprentissage supervisé (deep learning) pour
 l'analyse automatique à grande échelle de marquages routiers_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], link:{attachmentsdir}/++Holler-Colin.pdf++[Holler-Colin.pdf],  link:{attachmentsdir}/++Holler-Colin-slides.pdf++[Holler-Colin-slides.pdf] 
 
  - [[[Italiano]]] Italiano Vincent, _Approximation d'edp hyperboliques paramétriques par apprentissage_, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Italiano-Vincent.pdf++[Italiano-Vincent.pdf],  link:{attachmentsdir}/++Italiano-Vincent-slides.pdf++[Italiano-Vincent-slides.pdf] 
 
  - [[[Kermezli]]] Kermezli Ikram, _Gestion d'un corpus de données et sa mise à jour mise en place d'un protocole prédictif sur la base d'indices identifiés_, link:www.vossloh-cogifer.com[Vossloh Cogifer], link:{attachmentsdir}/++Kermezli-Ikram.pdf++[Kermezli-Ikram.pdf],  link:{attachmentsdir}/++Kermezli-Ikram-slides.pdf++[Kermezli-Ikram-slides.pdf] 
 
- - [[[Klein]]] Klein Anita, _Simulation offers a promising future to surgery as it could improve the training of the surgeons in_x000d_
-different procedures. however, simulation of cutting in surgery is still a challenge as it raises problems_x000d_
+ - [[[Klein]]] Klein Anita, _Simulation offers a promising future to surgery as it could improve the training of the surgeons in
+different procedures. however, simulation of cutting in surgery is still a challenge as it raises problems
 such as topological changes as well as the deformations induced by these modification. to handle these problems we are working on a new method that simulates the cutting process with the finite-element method. the topological changes will be minimized through the constraints on the mesh, transforming the geometrical issue of cutting into a mechanical problem. during the cutting process, the edges that intersects with the cutting surface will be snapped, generating unhooked nodes that need to be projected on the surface. such projection can be realized by applying constraints on the snapping nodes, leading to a local constraint-based problem to be solved_, link:[I-Cube], link:{attachmentsdir}/++Klein-Anita.pdf++[Klein-Anita.pdf],  link:{attachmentsdir}/++Klein-Anita-slides.pdf++[Klein-Anita-slides.pdf] 
 
  - [[[Klockenbring]]] Klockenbring Dimitri, _Détection automatique par ia pour caractériser le transport de matières dangereuses (tmd) cas du tunnel de schirmeck_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], link:{attachmentsdir}/++Klockenbring-Dimitri.pdf++[Klockenbring-Dimitri.pdf],  link:{attachmentsdir}/++Klockenbring-Dimitri-slides.pdf++[Klockenbring-Dimitri-slides.pdf] 
