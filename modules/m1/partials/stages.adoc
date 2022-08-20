@@ -3,3 +3,5 @@
 | Nom | Prénom | Entreprise | Sujet
 
 |===
+
+| Palazzolo | Lucas | link:https://team.inria.fr/mctao/collision-avoidance-via-control-barrier-functions/[Collision avoidance via control barrier functions from Inria Sophia-Antipolis (McTao)] | _Control Barrier Functions_
