@@ -15,6 +15,6 @@ jobs:
         curl --verbose \
           -X POST \
           -H "Accept: application/vnd.github+json" \
-          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Authorization: token ${{ secrets.CR_PAT }}" \
           https://api.github.com/repos/master-csmi/csmi/dispatches \
           -d "{\"event_type\": \"stages-updates\" }" 
