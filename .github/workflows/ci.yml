@@ -6,7 +6,6 @@ on:
       - main
 
 jobs:
-
   dispatch:
     runs-on: ubuntu-20.04
     steps:
