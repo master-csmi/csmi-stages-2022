@@ -12,7 +12,7 @@ jobs:
     steps:
     - name: Dispatch to CSMI
       run: |
-        curl --verbose
+        curl --verbose \
           -X POST \
           -H "Accept: application/vnd.github+json" \
           -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
