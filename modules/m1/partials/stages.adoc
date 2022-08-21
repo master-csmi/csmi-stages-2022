@@ -2,4 +2,20 @@
 |===
 | Nom | Prénom | Entreprise | Sujet
 
+| Aydogdu | Melissa | link:[Universite De Strasbourg - Ufr Math-Info] | _Assimilation de données avec des modèles EDP de Feel++_
+
+| Cladellas Herodier | Javier | link:[Universite De Strasbourg - Ufr Math-Info] | _Processement et analyse de données pour l'énérgie des bâtiments et l'évaluation du comfort thermique._
+
+| Congo | Job | link:[Universite De Strasbourg - Ufr Math-Info] | _Base Réduite et Apprentissage_
+
+| Gauthier | Léonard | link:[Bdr Thermea France] | _Analyse de sensibilité pour l’optimisation numérique_
+
+| Lecourtier | Frédérique | link:[Universite De Strasbourg - Ufr Math-Info] | _Application de la méthode para-real à la simulation d’EDP dans Feel++_
+
+| Palazzolo | Lucas | link:www.inria.fr[Inria] | _Navigation maritime optimale_x000D__
+
+| Schnoebelen | Claire | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Réduction de model pour le transport._
+
+| Zhang | Kaisheng | link:[Universite De Strasbourg - Ufr Math-Info] | _Traitement de données météorologiques pour des applications de thermique du bâtiment_
+
 |===

@@ -1,0 +1,16 @@
+
+ - [[[Aydogdu]]] Aydogdu Melissa, _Assimilation de données avec des modèles edp de feel++_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Aydogdu-Melissa.pdf++[Aydogdu-Melissa.pdf],  link:{attachmentsdir}/++Aydogdu-Melissa-slides.pdf++[Aydogdu-Melissa-slides.pdf] 
+
+ - [[[CladellasHerodier]]] Cladellas Herodier Javier, _Processement et analyse de données pour l'énérgie des bâtiments et l'évaluation du comfort thermique._, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Cladellas Herodier-Javier.pdf++[Cladellas Herodier-Javier.pdf],  link:{attachmentsdir}/++Cladellas Herodier-Javier-slides.pdf++[Cladellas Herodier-Javier-slides.pdf] 
+
+ - [[[Congo]]] Congo Job, _Base réduite et apprentissage_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Congo-Job.pdf++[Congo-Job.pdf],  link:{attachmentsdir}/++Congo-Job-slides.pdf++[Congo-Job-slides.pdf] 
+
+ - [[[Gauthier]]] Gauthier Léonard, _Analyse de sensibilité pour l’optimisation numérique_, link:[Bdr Thermea France], link:{attachmentsdir}/++Gauthier-Léonard.pdf++[Gauthier-Léonard.pdf],  link:{attachmentsdir}/++Gauthier-Léonard-slides.pdf++[Gauthier-Léonard-slides.pdf] 
+
+ - [[[Lecourtier]]] Lecourtier Frédérique, _Application de la méthode para-real à la simulation d’edp dans feel++_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Lecourtier-Frédérique.pdf++[Lecourtier-Frédérique.pdf],  link:{attachmentsdir}/++Lecourtier-Frédérique-slides.pdf++[Lecourtier-Frédérique-slides.pdf] 
+
+ - [[[Palazzolo]]] Palazzolo Lucas, _Navigation maritime optimale_x000d__, link:www.inria.fr[Inria], link:{attachmentsdir}/++Palazzolo-Lucas.pdf++[Palazzolo-Lucas.pdf],  link:{attachmentsdir}/++Palazzolo-Lucas-slides.pdf++[Palazzolo-Lucas-slides.pdf] 
+
+ - [[[Schnoebelen]]] Schnoebelen Claire, _Réduction de model pour le transport._, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Schnoebelen-Claire.pdf++[Schnoebelen-Claire.pdf],  link:{attachmentsdir}/++Schnoebelen-Claire-slides.pdf++[Schnoebelen-Claire-slides.pdf] 
+
+ - [[[Zhang]]] Zhang Kaisheng, _Traitement de données météorologiques pour des applications de thermique du bâtiment_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Zhang-Kaisheng.pdf++[Zhang-Kaisheng.pdf],  link:{attachmentsdir}/++Zhang-Kaisheng-slides.pdf++[Zhang-Kaisheng-slides.pdf] 
