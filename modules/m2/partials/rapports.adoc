@@ -38,4 +38,4 @@ l'objectif principal du travail proposé repose sur l'implémentation d'algorith
 
  - [[[Untz]]] Untz Mélissa, _Optimisation d'algorithme d'entrée et de libération des trieurs 25 et 26 de l'atelier pam1_, link:[Schmidt Groupe Sas], link:{attachmentsdir}/++Untz-Mélissa.pdf++[Untz-Mélissa.pdf],  link:{attachmentsdir}/++Untz-Mélissa-slides.pdf++[Untz-Mélissa-slides.pdf] 
 
- - [[[VanLandeghem]]] Van Landeghem Celine, _Modélisation et simulation du contact en micro-natation._, link:[Cnrs Delegation Alsace], link:{attachmentsdir}/++Van Landeghem-Celine.pdf++[Van Landeghem-Celine.pdf],  link:{attachmentsdir}/++Van Landeghem-Celine-slides.pdf++[Van Landeghem-Celine-slides.pdf] 
+ - [[[VanLandeghem]]] Van Landeghem Celine, _Modélisation et simulation du contact en micro-natation._, link:[Cnrs Delegation Alsace], link:https://feelpp.github.io/swimmer/swimmer/latest/StageCeline/Introduction.html[Van Landeghem-Celine Antora site],  link:{attachmentsdir}/++Van Landeghem-Celine-slides.pdf++[Van Landeghem-Celine-slides.pdf] 
