@@ -1,0 +1,21 @@
+name: CI
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+
+  dispatch:
+    runs-on: ubuntu-20.04
+    steps:
+    - name: Dispatch to CSMI
+      run: |
+        curl --verbose -H "Accept: application/vnd.github.everest-preview+json" \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          --request POST \
+          --data "{\"event_type\": \"stages-updates\" }" \
+          https://api.github.com/repos/master-csmi/csmi/dispatches
+ 
