@@ -12,7 +12,7 @@ jobs:
     steps:
     - name: Dispatch to CSMI
       run: |
-        curl --verbose -H "Accept: application/vnd.github.everest-preview+json" \
+        curl --verbose -H "Accept: application/vnd.github+json" \
           -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
           -H "Content-Type: application/json" \
           --request POST \
