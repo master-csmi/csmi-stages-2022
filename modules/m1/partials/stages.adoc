@@ -16,6 +16,6 @@
 
 | Schnoebelen | Claire | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Réduction de model pour le transport._
 
-| Zhang | Kaisheng | link:[Universite De Strasbourg - Ufr Math-Info] | _Traitement de données météorologiques pour des applications de thermique du bâtiment_
+// | Zhang | Kaisheng | link:[Universite De Strasbourg - Ufr Math-Info] | _Traitement de données météorologiques pour des applications de thermique du bâtiment_
 
 |===

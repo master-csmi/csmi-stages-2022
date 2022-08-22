@@ -13,4 +13,4 @@
 
  - [[[Schnoebelen]]] Schnoebelen Claire, _Réduction de model pour le transport._, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Schnoebelen-Claire.pdf++[Schnoebelen-Claire.pdf],  link:{attachmentsdir}/++Schnoebelen-Claire-slides.pdf++[Schnoebelen-Claire-slides.pdf] 
 
- - [[[Zhang]]] Zhang Kaisheng, _Traitement de données météorologiques pour des applications de thermique du bâtiment_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Zhang-Kaisheng.pdf++[Zhang-Kaisheng.pdf],  link:{attachmentsdir}/++Zhang-Kaisheng-slides.pdf++[Zhang-Kaisheng-slides.pdf] 
+// - [[[Zhang]]] Zhang Kaisheng, _Traitement de données météorologiques pour des applications de thermique du bâtiment_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Zhang-Kaisheng.pdf++[Zhang-Kaisheng.pdf],  link:{attachmentsdir}/++Zhang-Kaisheng-slides.pdf++[Zhang-Kaisheng-slides.pdf] 
