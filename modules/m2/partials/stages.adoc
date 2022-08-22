@@ -10,10 +10,7 @@ mathématiques et d'outils de la science des données._
 
 | Dumont | Quentin | link:http://www.altran.fr[Altran Technologies] | _Algorithme d'optimisation pour l'efficacité énergétique_
 
-| Guidet | Laurène | link:https://www.sporttesting.fr/[Sporttesting] | _Définir les facteurs de performance ou marqueur de performance avec comme base une multitude de données de profilage d'individu. Utilisation de Python, R ou autre suivant les besoins. Il faudra également collecter les données de notre base de données et ensuite automatiser l'entrée des résultats sur notre plateforme SportGen (avec le soutien de notre Développeur).
-
-Utilisation de méthode de clustering pour la création de groupe d'entrainement. Tester différentes méthodes de groupement d'individus en fonction de leurs caractéristiques. (Sujet assez libre, mais assez vaste également)
-_
+| Guidet | Laurène | link:https://www.sporttesting.fr/[Sporttesting] | _Définir les facteurs de performance ou marqueur de performance avec comme base une multitude de données de profilage d'individu. Utilisation de Python, R ou autre suivant les besoins. Il faudra également collecter les données de notre base de données et ensuite automatiser l'entrée des résultats sur notre plateforme SportGen (avec le soutien de notre Développeur). Utilisation de méthode de clustering pour la création de groupe d'entrainement. Tester différentes méthodes de groupement d'individus en fonction de leurs caractéristiques. (Sujet assez libre, mais assez vaste également)_
 
 | Holler | Colin | link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg] | _Mise en œuvre de techniques d'apprentissage supervisé (deep learning) pour
 l'analyse automatique à grande échelle de marquages routiers_
