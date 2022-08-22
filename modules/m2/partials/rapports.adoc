@@ -32,7 +32,7 @@ l'objectif principal du travail proposé repose sur l'implémentation d'algorith
 
  - [[[Mousel]]] Mousel Jimmy, _Modélisation des écoulements d'air et du transportde polluants dans une enceinte fermée._, link:http://www.alsace.cnrs.fr[Cnrs - Delegation Alsace], link:https://feelpp.github.io/ibat/ibat/1.0.0/reports/jimmy-mousel/index.html[Mousel-Jimmy Antora Site],  link:{attachmentsdir}/++Mousel-Jimmy-slides.pdf++[Mousel-Jimmy-slides.pdf] 
 
- - [[[Muzet]]] Muzet Jeremie, _Modélisation de supraconducteur_, link:[Cnrs], link:{attachmentsdir}/++Muzet-Jeremie.pdf++[Muzet-Jeremie.pdf],  link:{attachmentsdir}/++Muzet-Jeremie-slides.pdf++[Muzet-Jeremie-slides.pdf] 
+ - [[[Muzet]]] Muzet Jeremie, _Modélisation de supraconducteur_, link:http://lncmi.cnrs.fr/[Cnrs], link:https://master-csmi.github.io/2021-m2-lncmi-supermagnets/lncmisupra/main/[Muzet-Jeremie.pdf],  link:{attachmentsdir}/++Muzet-Jeremie-slides.pdf++[Muzet-Jeremie-slides.pdf] 
 
  - [[[Reitzer]]] Reitzer Marie, _Refonte du système des taux de capitalisation en assurance vie_, link:https://www.e-i.com/fr/index.html[Euro Information Developpements], link:{attachmentsdir}/++Reitzer-Marie.pdf++[Reitzer-Marie.pdf],  link:{attachmentsdir}/++Reitzer-Marie-slides.pdf++[Reitzer-Marie-slides.pdf] 
 
