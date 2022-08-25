@@ -36,6 +36,6 @@ l'objectif principal du travail proposé repose sur l'implémentation d'algorith
 
  - [[[Reitzer]]] Reitzer Marie, _Refonte du système des taux de capitalisation en assurance vie_, link:https://www.e-i.com/fr/index.html[Euro Information Developpements], link:{attachmentsdir}/++Reitzer-Marie.pdf++[Reitzer-Marie.pdf],  link:{attachmentsdir}/++Reitzer-Marie-slides.pdf++[Reitzer-Marie-slides.pdf] 
 
- - [[[Untz]]] Untz Mélissa, _Optimisation d'algorithme d'entrée et de libération des trieurs 25 et 26 de l'atelier pam1_, link:[Schmidt Groupe Sas], link:{attachmentsdir}/++Untz-Mélissa.pdf++[Untz-Mélissa.pdf],  link:{attachmentsdir}/++Untz-Mélissa-slides.pdf++[Untz-Mélissa-slides.pdf] 
+ - [[[Untz]]] Untz Mélissa, _Optimisation d'algorithme d'entrée et de libération des trieurs 25 et 26 de l'atelier pam1_, link:[Schmidt Groupe Sas], link:{attachmentsdir}/++Untz-Mélissa.pdf++[Untz-Mélissa.pdf],  link:{attachmentsdir}/++Untz-Mélissa-slides.pdf++[Untz-Mélissa-Slides.pdf] 
 
  - [[[VanLandeghem]]] Van Landeghem Celine, _Modélisation et simulation du contact en micro-natation._, link:[Cnrs Delegation Alsace], link:{attachmentsdir}/++Van Landeghem-Celine.pdf++[Van Landeghem-Celine.pdf],  link:{attachmentsdir}/++Van Landeghem-Celine-slides.pdf++[Van Landeghem-Celine-slides.pdf] 
