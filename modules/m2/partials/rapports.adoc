@@ -12,9 +12,9 @@ mathématiques et d'outils de la science des données._, link:[Utt], link:{attac
  - [[[Holler]]] Holler Colin, _Mise en œuvre de techniques d'apprentissage supervisé (deep learning) pour
 l'analyse automatique à grande échelle de marquages routiers_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], link:{attachmentsdir}/++Holler-Colin.pdf++[Holler-Colin.pdf],  link:{attachmentsdir}/++Holler-Colin-slides.pdf++[Holler-Colin-slides.pdf] 
 
- - [[[Italiano]]] Italiano Vincent, _Approximation d'edp hyperboliques paramétriques par apprentissage_, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Italiano-Vincent.pdf++[Italiano-Vincent.pdf],  link:{attachmentsdir}/++Italiano-Vincent-slides.pdf++[Italiano-Vincent-slides.pdf] 
+ - [[[Italiano]]] Italiano Vincent, _Approximation d'edp hyperboliques paramétriques par apprentissage_, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Italiano-Vincent.pdf++[Italiano-Vincent.pdf],  link:{attachmentsdir}/++Italiano-Vincent-slides.pdf++[Italiano-vincent-slides.pdf] 
 
- - [[[Kermezli]]] Kermezli Ikram, _Gestion d'un corpus de données et sa mise à jour mise en place d'un protocole prédictif sur la base d'indices identifiés_, link:www.vossloh-cogifer.com[Vossloh Cogifer], link:{attachmentsdir}/++Kermezli-Ikram.pdf++[Kermezli-Ikram.pdf],  link:{attachmentsdir}/++Kermezli-Ikram-slides.pdf++[Kermezli-Ikram-slides.pdf] 
+ - [[[Kermezli]]] Kermezli Ikram, _Gestion d'un corpus de données et sa mise à jour mise en place d'un protocole prédictif sur la base d'indices identifiés_, link:www.vossloh-cogifer.com[Vossloh Cogifer], link:{attachmentsdir}/++Kermezli-Ikram.pdf++[Kermezli-Ikram.pdf],  _CONFIDENTIAL_ 
 
  - [[[Klein]]] Klein Anita, _Simulation offers a promising future to surgery as it could improve the training of the surgeons in
 different procedures. however, simulation of cutting in surgery is still a challenge as it raises problems
@@ -25,7 +25,7 @@ such as topological changes as well as the deformations induced by these modific
  - [[[Lorentz]]] Lorentz Celine, _Les défauts d'arcs électriques dans les réseaux électriques (aéronautiques, automobiles, domestiques …) sont à l'origine de nombreux accidents graves causés par des incendies ou par la destruction d'organes importants. le réseau que nous étudions se compose d'une source continue (270 vdc) alimentant des charges diverses (résistives, inductives, charges non-linéaires, …)
 l'objectif principal du travail proposé repose sur l'implémentation d'algorithmes d'intelligence artificielle pour la détection de défauts, de leurs tests de performances et d'optimisations en conditions réelles._, link:[Institut Jean Lamour], link:{attachmentsdir}/++Lorentz-Celine.pdf++[Lorentz-Celine.pdf],  link:{attachmentsdir}/++Lorentz-Celine-slides.pdf++[Lorentz-Celine-slides.pdf] 
 
- - [[[Mengel]]] Mengel Corentin, _Segmentation interactive par deep learning pour l'imagerie médicale_, link:[Ge Healthcare Equipment Finance], link:{attachmentsdir}/++Mengel-Corentin.pdf++[Mengel-Corentin.pdf],  link:{attachmentsdir}/++Mengel-Corentin-slides.pdf++[Mengel-Corentin-slides.pdf] 
+ - [[[Mengel]]] Mengel Corentin, _Segmentation interactive par deep learning pour l'imagerie médicale_, link:[Ge Healthcare Equipment Finance], _CONFIDENTIAL_  
 
  - [[[Mousel]]] Mousel Jimmy, _Modélisation des écoulements d'air et du transportde polluants dans une enceinte fermée._, link:http://www.alsace.cnrs.fr[Cnrs - Delegation Alsace], link:https://feelpp.github.io/ibat/ibat/1.0.0/reports/jimmy-mousel/index.html[Mousel-Jimmy Antora Site],  link:{attachmentsdir}/++Mousel-Jimmy-slides.pdf++[Mousel-Jimmy-slides.pdf] 
 
