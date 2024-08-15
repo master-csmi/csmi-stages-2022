@@ -1,6 +1,6 @@
 name: csmi-stages-2022
 title: Master CSMI 2022
-version: master
+version: ~
 start_page: ROOT:index.adoc
 asciidoc: 
   attributes: 
